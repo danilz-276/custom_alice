@@ -10,23 +10,22 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  http: ^1.0.0
-  dio: ^5.1.2
-  flutter_local_notifications: ^16.1.0
-  rxdart: ^0.27.7
+  http: 
+  dio: 
+  flutter_local_notifications: 
+  rxdart: 
 
-  path_provider: ^2.0.15
-  permission_handler: ^11.0.1
-  package_info_plus: ^4.0.2
-  open_filex: ^4.3.2
-  sensors_plus: ^3.0.2
-  share_plus: ^7.2.1
-  chopper: ^7.0.9
-  collection: ^1.17.1
-  url_launcher: ^6.1.6
+  path_provider: 
+  permission_handler: 
+  package_info_plus: 
+  sensors_plus: 
+  share_plus: 
+  chopper: 
+  collection: 
+  url_launcher: 
 
 dev_dependencies:
-  very_good_analysis: ^5.1.0
+  very_good_analysis: 
 
 flutter:
   plugin:
