@@ -14,7 +14,7 @@ dependencies:
   dio: 
   flutter_local_notifications: 
   rxdart: 
-
+  open_filex:
   path_provider: 
   permission_handler: 
   package_info_plus: 
