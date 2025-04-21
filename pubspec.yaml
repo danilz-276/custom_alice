@@ -1,8 +1,9 @@
-name: alice
+name: alice_notification_payload
 description: Alice is an HTTP Inspector tool which helps debugging http requests. It catches and stores http requests and responses, which can be viewed via simple UI.
-version: 0.4.1
-#author: Jakub Homlala <jhomlala@gmail.com>
-homepage: https://github.com/jhomlala/alice
+version: 0.0.1
+homepage: https://github.com/danilz-276/custom_alice
+repository: https://github.com/danilz-276/custom_alice
+issue_tracker: https://github.com/danilz-276/custom_alice/issues
 
 environment:
   sdk: ">=3.2.0 <4.0.0"
@@ -31,7 +32,7 @@ flutter:
   plugin:
     platforms:
       android:
-        package: com.jhomlala.alice
+        package: com.danilz.alice
         pluginClass: AlicePlugin
       ios:
         pluginClass: AlicePlugin

@@ -3,15 +3,15 @@
   "packages": [
     {
       "name": "args",
-      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/args-2.4.2",
+      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/args-2.7.0",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.3"
     },
     {
       "name": "async",
-      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/async-2.11.0",
+      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/async-2.12.0",
       "packageUri": "lib/",
-      "languageVersion": "2.18"
+      "languageVersion": "3.4"
     },
     {
       "name": "characters",
@@ -21,15 +21,15 @@
     },
     {
       "name": "chopper",
-      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/chopper-7.0.9",
+      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/chopper-8.1.0",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     },
     {
       "name": "clock",
-      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/clock-1.1.1",
+      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/clock-1.1.2",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "3.4"
     },
     {
       "name": "collection",
@@ -39,45 +39,51 @@
     },
     {
       "name": "cross_file",
-      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/cross_file-0.3.3+6",
+      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/cross_file-0.3.4+2",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.3"
     },
     {
       "name": "crypto",
-      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/crypto-3.0.3",
+      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/crypto-3.0.6",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.4"
     },
     {
       "name": "dbus",
-      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/dbus-0.7.8",
+      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/dbus-0.7.11",
       "packageUri": "lib/",
-      "languageVersion": "2.15"
+      "languageVersion": "2.17"
     },
     {
       "name": "dio",
-      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/dio-5.3.3",
+      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/dio-5.4.3+1",
       "packageUri": "lib/",
       "languageVersion": "2.15"
     },
     {
       "name": "equatable",
-      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/equatable-2.0.5",
+      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/equatable-2.0.7",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "ffi",
-      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/ffi-2.1.0",
+      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/ffi-2.1.3",
+      "packageUri": "lib/",
+      "languageVersion": "3.3"
+    },
+    {
+      "name": "file",
+      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/file-7.0.1",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     },
     {
-      "name": "file",
-      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/file-7.0.0",
+      "name": "fixnum",
+      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/fixnum-1.1.1",
       "packageUri": "lib/",
-      "languageVersion": "3.0"
+      "languageVersion": "3.1"
     },
     {
       "name": "flutter",
@@ -87,21 +93,27 @@
     },
     {
       "name": "flutter_local_notifications",
-      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/flutter_local_notifications-16.1.0",
+      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/flutter_local_notifications-19.1.0",
       "packageUri": "lib/",
-      "languageVersion": "2.17"
+      "languageVersion": "3.4"
     },
     {
       "name": "flutter_local_notifications_linux",
-      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/flutter_local_notifications_linux-4.0.0+1",
+      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/flutter_local_notifications_linux-6.0.0",
       "packageUri": "lib/",
-      "languageVersion": "2.17"
+      "languageVersion": "3.4"
     },
     {
       "name": "flutter_local_notifications_platform_interface",
-      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/flutter_local_notifications_platform_interface-7.0.0+1",
+      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/flutter_local_notifications_platform_interface-9.0.0",
       "packageUri": "lib/",
-      "languageVersion": "2.17"
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "flutter_local_notifications_windows",
+      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/flutter_local_notifications_windows-1.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
     },
     {
       "name": "flutter_web_plugins",
@@ -111,9 +123,9 @@
     },
     {
       "name": "http",
-      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/http-1.1.0",
+      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/http-1.3.0",
       "packageUri": "lib/",
-      "languageVersion": "3.0"
+      "languageVersion": "3.4"
     },
     {
       "name": "http_parser",
@@ -122,16 +134,10 @@
       "languageVersion": "2.12"
     },
     {
-      "name": "js",
-      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/js-0.6.7",
-      "packageUri": "lib/",
-      "languageVersion": "2.19"
-    },
-    {
       "name": "logging",
-      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/logging-1.2.0",
+      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/logging-1.3.0",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.4"
     },
     {
       "name": "material_color_utilities",
@@ -147,9 +153,9 @@
     },
     {
       "name": "mime",
-      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/mime-1.0.4",
+      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/mime-2.0.0",
       "packageUri": "lib/",
-      "languageVersion": "2.18"
+      "languageVersion": "3.2"
     },
     {
       "name": "open_filex",
@@ -159,39 +165,39 @@
     },
     {
       "name": "package_info_plus",
-      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/package_info_plus-4.2.0",
+      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/package_info_plus-8.3.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.3"
+    },
+    {
+      "name": "package_info_plus_platform_interface",
+      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/package_info_plus_platform_interface-3.2.0",
       "packageUri": "lib/",
       "languageVersion": "2.18"
     },
     {
-      "name": "package_info_plus_platform_interface",
-      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/package_info_plus_platform_interface-2.0.1",
-      "packageUri": "lib/",
-      "languageVersion": "2.12"
-    },
-    {
       "name": "path",
-      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/path-1.8.3",
+      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/path-1.9.1",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "3.4"
     },
     {
       "name": "path_provider",
-      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/path_provider-2.1.1",
+      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/path_provider-2.1.5",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.4"
     },
     {
       "name": "path_provider_android",
-      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/path_provider_android-2.2.1",
+      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/path_provider_android-2.2.10",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.4"
     },
     {
       "name": "path_provider_foundation",
-      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/path_provider_foundation-2.3.1",
+      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/path_provider_foundation-2.4.1",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.3"
     },
     {
       "name": "path_provider_linux",
@@ -201,91 +207,109 @@
     },
     {
       "name": "path_provider_platform_interface",
-      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/path_provider_platform_interface-2.1.1",
+      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/path_provider_platform_interface-2.1.2",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.0"
     },
     {
       "name": "path_provider_windows",
-      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/path_provider_windows-2.2.1",
+      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/path_provider_windows-2.3.0",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.2"
     },
     {
       "name": "permission_handler",
-      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/permission_handler-11.0.1",
+      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/permission_handler-11.3.1",
       "packageUri": "lib/",
       "languageVersion": "2.15"
     },
     {
       "name": "permission_handler_android",
-      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/permission_handler_android-11.1.0",
+      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/permission_handler_android-12.0.13",
       "packageUri": "lib/",
       "languageVersion": "2.15"
     },
     {
       "name": "permission_handler_apple",
-      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/permission_handler_apple-9.1.4",
+      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/permission_handler_apple-9.4.7",
       "packageUri": "lib/",
-      "languageVersion": "2.15"
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "permission_handler_html",
+      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/permission_handler_html-0.1.3+5",
+      "packageUri": "lib/",
+      "languageVersion": "3.3"
     },
     {
       "name": "permission_handler_platform_interface",
-      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/permission_handler_platform_interface-3.12.0",
+      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/permission_handler_platform_interface-4.2.3",
       "packageUri": "lib/",
       "languageVersion": "2.14"
     },
     {
       "name": "permission_handler_windows",
-      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/permission_handler_windows-0.1.3",
+      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/permission_handler_windows-0.2.1",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "petitparser",
-      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/petitparser-5.4.0",
+      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/petitparser-6.0.2",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.2"
     },
     {
       "name": "platform",
-      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/platform-3.1.3",
+      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/platform-3.1.6",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.2"
     },
     {
       "name": "plugin_platform_interface",
-      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/plugin_platform_interface-2.1.6",
+      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/plugin_platform_interface-2.1.8",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "qs_dart",
+      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/qs_dart-1.3.3+1",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "recursive_regex",
+      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/recursive_regex-1.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
     },
     {
       "name": "rxdart",
-      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/rxdart-0.27.7",
+      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/rxdart-0.28.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "sensors_plus",
-      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/sensors_plus-3.1.0",
+      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/sensors_plus-6.1.1",
       "packageUri": "lib/",
-      "languageVersion": "2.18"
+      "languageVersion": "3.3"
     },
     {
       "name": "sensors_plus_platform_interface",
-      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/sensors_plus_platform_interface-1.1.3",
-      "packageUri": "lib/",
-      "languageVersion": "2.12"
-    },
-    {
-      "name": "share_plus",
-      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/share_plus-7.2.1",
+      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/sensors_plus_platform_interface-2.0.1",
       "packageUri": "lib/",
       "languageVersion": "2.18"
     },
     {
+      "name": "share_plus",
+      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/share_plus-10.1.4",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
       "name": "share_plus_platform_interface",
-      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/share_plus_platform_interface-3.3.1",
+      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/share_plus_platform_interface-5.0.2",
       "packageUri": "lib/",
       "languageVersion": "2.18"
     },
@@ -297,9 +321,9 @@
     },
     {
       "name": "source_span",
-      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/source_span-1.10.0",
+      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/source_span-1.10.1",
       "packageUri": "lib/",
-      "languageVersion": "2.18"
+      "languageVersion": "3.1"
     },
     {
       "name": "sprintf",
@@ -309,21 +333,21 @@
     },
     {
       "name": "string_scanner",
-      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/string_scanner-1.2.0",
+      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/string_scanner-1.4.1",
       "packageUri": "lib/",
-      "languageVersion": "2.18"
+      "languageVersion": "3.1"
     },
     {
       "name": "term_glyph",
-      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/term_glyph-1.2.1",
+      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/term_glyph-1.2.2",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "3.1"
     },
     {
       "name": "timezone",
-      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/timezone-0.9.2",
+      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/timezone-0.10.0",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "2.19"
     },
     {
       "name": "typed_data",
@@ -333,57 +357,57 @@
     },
     {
       "name": "url_launcher",
-      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/url_launcher-6.2.1",
+      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/url_launcher-6.3.1",
       "packageUri": "lib/",
-      "languageVersion": "3.1"
+      "languageVersion": "3.3"
     },
     {
       "name": "url_launcher_android",
-      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/url_launcher_android-6.2.0",
+      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/url_launcher_android-6.3.9",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.4"
     },
     {
       "name": "url_launcher_ios",
-      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/url_launcher_ios-6.2.0",
+      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/url_launcher_ios-6.3.3",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.4"
     },
     {
       "name": "url_launcher_linux",
-      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/url_launcher_linux-3.1.0",
+      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/url_launcher_linux-3.2.1",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.3"
     },
     {
       "name": "url_launcher_macos",
-      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/url_launcher_macos-3.1.0",
+      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/url_launcher_macos-3.2.2",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.3"
     },
     {
       "name": "url_launcher_platform_interface",
-      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/url_launcher_platform_interface-2.2.0",
-      "packageUri": "lib/",
-      "languageVersion": "2.19"
-    },
-    {
-      "name": "url_launcher_web",
-      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/url_launcher_web-2.2.0",
+      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/url_launcher_platform_interface-2.3.2",
       "packageUri": "lib/",
       "languageVersion": "3.1"
     },
     {
-      "name": "url_launcher_windows",
-      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/url_launcher_windows-3.1.0",
+      "name": "url_launcher_web",
+      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/url_launcher_web-2.3.3",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.3"
+    },
+    {
+      "name": "url_launcher_windows",
+      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/url_launcher_windows-3.1.4",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
     },
     {
       "name": "uuid",
-      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/uuid-4.2.1",
+      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/uuid-4.5.1",
       "packageUri": "lib/",
-      "languageVersion": "2.14"
+      "languageVersion": "3.0"
     },
     {
       "name": "vector_math",
@@ -398,31 +422,43 @@
       "languageVersion": "3.0"
     },
     {
-      "name": "win32",
-      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/win32-5.0.9",
+      "name": "weak_map",
+      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/weak_map-4.0.1",
       "packageUri": "lib/",
-      "languageVersion": "3.0"
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "web",
+      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/web-1.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "win32",
+      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/win32-5.5.4",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
     },
     {
       "name": "xdg_directories",
-      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/xdg_directories-1.0.3",
+      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/xdg_directories-1.1.0",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.3"
     },
     {
       "name": "xml",
-      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/xml-6.3.0",
+      "rootUri": "file:///Users/DATDNT/.pub-cache/hosted/pub.dev/xml-6.5.0",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.2"
     },
     {
-      "name": "alice",
+      "name": "alice_notification_payload",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "3.2"
     }
   ],
-  "generated": "2025-04-21T04:05:48.315671Z",
+  "generated": "2025-04-21T05:59:42.504794Z",
   "generator": "pub",
   "generatorVersion": "3.4.1",
   "flutterRoot": "file:///Users/DATDNT/fvm/versions/3.22.1",

@@ -5,7 +5,7 @@
 import FlutterMacOS
 import Foundation
 
-import alice
+import alice_notification_payload
 import flutter_local_notifications
 import package_info_plus
 import path_provider_foundation

@@ -1,7 +1,7 @@
-import 'package:alice/core/alice_core.dart';
-import 'package:alice/helper/alice_conversion_helper.dart';
-import 'package:alice/model/alice_http_call.dart';
-import 'package:alice/utils/alice_theme.dart';
+import 'package:alice_notification_payload/core/alice_core.dart';
+import 'package:alice_notification_payload/helper/alice_conversion_helper.dart';
+import 'package:alice_notification_payload/model/alice_http_call.dart';
+import 'package:alice_notification_payload/utils/alice_theme.dart';
 import 'package:flutter/material.dart';
 
 class AliceStatsScreen extends StatelessWidget {

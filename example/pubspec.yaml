@@ -14,7 +14,7 @@ dependencies:
 dev_dependencies:
   build_runner:
   chopper_generator:
-  alice:
+  alice_notification_payload:
     path: ../
 
 # For information on the generic Dart part of this file, see the

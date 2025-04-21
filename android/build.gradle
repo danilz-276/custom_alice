@@ -1,4 +1,4 @@
-group 'com.jhomlala.alice'
+group 'com.danilz.alice'
 version '1.0-SNAPSHOT'
 
 buildscript {

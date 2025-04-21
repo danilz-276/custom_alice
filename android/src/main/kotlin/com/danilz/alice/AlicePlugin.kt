@@ -1,4 +1,4 @@
-package com.jhomlala.alice
+package com.danilz.alice
 
 import androidx.annotation.NonNull
 

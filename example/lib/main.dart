@@ -1,10 +1,10 @@
 import 'dart:convert';
 import 'dart:io';
 
-import 'package:alice/alice.dart';
-import 'package:alice/core/alice_http_client_extensions.dart';
-import 'package:alice/core/alice_http_extensions.dart';
 import 'package:alice_example/posts_service.dart';
+import 'package:alice_notification_payload/alice.dart';
+import 'package:alice_notification_payload/core/alice_http_client_extensions.dart';
+import 'package:alice_notification_payload/core/alice_http_extensions.dart';
 import 'package:chopper/chopper.dart';
 import 'package:dio/dio.dart';
 import 'package:flutter/material.dart';
@@ -41,8 +41,8 @@ class _MyAppState extends State<MyApp> {
     _dio.interceptors.add(_alice.getDioInterceptor());
     _httpClient = HttpClient();
     _chopper = ChopperClient(
-      // interceptors: [_alice.getChopperInterceptor()],
-    );
+        // interceptors: [_alice.getChopperInterceptor()],
+        );
     _postsService = PostsService.create(_chopper);
 
     super.initState();
@@ -51,7 +51,7 @@ class _MyAppState extends State<MyApp> {
   @override
   Widget build(BuildContext context) {
     ButtonStyle _buttonStyle = ButtonStyle(
-        backgroundColor: MaterialStateProperty.all<Color>(_buttonColor));
+        backgroundColor: WidgetStateProperty.all<Color>(_buttonColor));
     return MaterialApp(
       theme: ThemeData(
         primaryColor: _primaryColor,

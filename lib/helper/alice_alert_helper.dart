@@ -1,4 +1,4 @@
-import 'package:alice/utils/alice_theme.dart';
+import 'package:alice_notification_payload/utils/alice_theme.dart';
 import 'package:flutter/material.dart';
 
 class AliceAlertHelper {
