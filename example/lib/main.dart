@@ -5,7 +5,6 @@ import 'package:alice_example/posts_service.dart';
 import 'package:alice_notification_payload/alice.dart';
 import 'package:alice_notification_payload/core/alice_http_client_extensions.dart';
 import 'package:alice_notification_payload/core/alice_http_extensions.dart';
-import 'package:chopper/chopper.dart';
 import 'package:dio/dio.dart';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
@@ -22,7 +21,6 @@ class _MyAppState extends State<MyApp> {
   late Alice _alice;
   late Dio _dio;
   late HttpClient _httpClient;
-  ChopperClient? _chopper;
   late PostsService _postsService;
   Color _primaryColor = Color(0xffff5e57);
   Color _accentColor = Color(0xffff3f34);
@@ -40,10 +38,6 @@ class _MyAppState extends State<MyApp> {
     ));
     _dio.interceptors.add(_alice.getDioInterceptor());
     _httpClient = HttpClient();
-    _chopper = ChopperClient(
-        // interceptors: [_alice.getChopperInterceptor()],
-        );
-    _postsService = PostsService.create(_chopper);
 
     super.initState();
   }

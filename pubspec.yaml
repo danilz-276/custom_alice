@@ -1,29 +1,29 @@
 name: alice_notification_payload
 description: Alice is an HTTP Inspector tool which helps debugging http requests. It catches and stores http requests and responses, which can be viewed via simple UI.
-version: 0.0.1
+version: 0.0.4
 homepage: https://github.com/danilz-276/custom_alice
 repository: https://github.com/danilz-276/custom_alice
 issue_tracker: https://github.com/danilz-276/custom_alice/issues
 
 environment:
   sdk: ">=3.2.0 <4.0.0"
+  flutter: ">=1.10.0" 
 
 dependencies:
   flutter:
     sdk: flutter
-  http: 
-  dio: 
-  flutter_local_notifications: 
-  rxdart: 
-  open_filex:
-  path_provider: 
-  permission_handler: 
-  package_info_plus: 
-  sensors_plus: 
-  share_plus: 
-  chopper: 
-  collection: 
-  url_launcher: 
+  http: ^1.2.2
+  dio: ^5.4.3+1
+  flutter_local_notifications: ^17.2.3
+  rxdart: ^0.28.0
+  open_filex: ^4.7.0
+  path_provider: ^2.1.5
+  permission_handler: ^11.3.1
+  package_info_plus: ^8.0.2
+  sensors_plus: ^6.1.1
+  share_plus: ^10.0.0
+  collection: ^1.18.0
+  url_launcher: ^6.1.12
 
 dev_dependencies:
   very_good_analysis: 

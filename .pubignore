@@ -1,0 +1,23 @@
+# Ignore IDE and tooling
+.vscode/
+.fvmrc
+.dart_tool/
+
+# Ignore build output
+build/
+.pub/
+
+# (Có thể thêm test files nếu bạn không muốn publish)
+test/
+example/
+
+.dart_tool/extension_discovery/README.md
+.dart_tool/extension_discovery/vs_code.json
+.dart_tool/package_config_subset
+.dart_tool/version
+.vscode/settings.json
+ios/alice.podspec
+macos/alice.podspec
+
+
+
